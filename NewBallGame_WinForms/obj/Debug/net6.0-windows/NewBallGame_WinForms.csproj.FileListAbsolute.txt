@@ -1,0 +1,17 @@
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\bin\Debug\net6.0-windows\NewBallGame_WinForms.exe
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\bin\Debug\net6.0-windows\NewBallGame_WinForms.deps.json
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\bin\Debug\net6.0-windows\NewBallGame_WinForms.runtimeconfig.json
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\bin\Debug\net6.0-windows\NewBallGame_WinForms.dll
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\bin\Debug\net6.0-windows\NewBallGame_WinForms.pdb
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.Form1.resources
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.csproj.GenerateResource.cache
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.AssemblyInfoInputs.cache
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.AssemblyInfo.cs
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.csproj.CoreCompileInputs.cache
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.dll
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\refint\NewBallGame_WinForms.dll
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.pdb
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.genruntimeconfig.cache
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\ref\NewBallGame_WinForms.dll
+D:\zDocs\C_Sharp\NewBallGame_WinForms\NewBallGame_WinForms\obj\Debug\net6.0-windows\NewBallGame_WinForms.Properties.Resources.resources
